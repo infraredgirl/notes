@@ -1,3 +1,7 @@
+# Modern React with Redux 
+
+Notes taken on [this course](https://www.udemy.com/react-redux/learn/v4/).
+
 Tooling
 -------
 Webpack and Babel transpile ES6 code files into a single bundle.js that can
