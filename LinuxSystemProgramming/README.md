@@ -7,4 +7,5 @@ Notes taken while reading the book [Linux System Programming](http://shop.oreill
 * [Chapter 3: Buffered I/O](chapter03.md)
 * [Chapter 4: Advanced File I/O](chapter04.md)
 * [Chapter 5: Process Management](chapter05.md)
+* [Chapter 6: Advanced Process Management](chapter06.md)
 * [Chapter 7: Threading](chapter07.md)
