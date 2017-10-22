@@ -9,3 +9,4 @@ Notes taken while reading the book [Linux System Programming](http://shop.oreill
 * [Chapter 5: Process Management](chapter05.md)
 * [Chapter 6: Advanced Process Management](chapter06.md)
 * [Chapter 7: Threading](chapter07.md)
+* [Chapter 8: File and Directory Management](chapter08.md)
