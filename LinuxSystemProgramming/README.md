@@ -12,3 +12,4 @@ Notes taken while reading the book [Linux System Programming](http://shop.oreill
 * [Chapter 8: File and Directory Management](chapter08.md)
 * [Chapter 9: Memory Management](chapter09.md)
 * [Chapter 10: Signals](chapter10.md)
+* [Chapter 11: Time](chapter11.md)
